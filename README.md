@@ -6,8 +6,8 @@ A collection of machine learning projects exploring data preprocessing, classifi
 
 | Project | Description | Techniques |
 |---|---|---|
-| [Hate Speech Detection](Hate_Speech_Detection.ipynb) | Classifies tweets into hate speech, offensive language, and neither. | NLP, Text Preprocessing, CountVectorizer, Decision Tree |
-| [Heart Failure Prediction](heart_failure_prediction.ipynb) | Predicts death events using clinical records of patients with heart failure. | EDA, Data Preprocessing, SVM, Artificial Neural Network |
+| [Hate Speech Detection](Hate_Speech_Detection.ipynb) | Three-class tweet classification using text preprocessing and Bag-of-Words. Achieved 87.35% test accuracy; hate-speech recall remains an area for improvement. | NLP, Text Preprocessing, CountVectorizer, Decision Tree |
+| [Heart Failure Prediction](heart_failure_prediction.ipynb) |Compared SVM (78% accuracy, 0.67 death-event F1) and ANN (74% accuracy, 0.65 death-event F1) on a single train-test split. | EDA, Data Preprocessing, SVM, Artificial Neural Network |
 
 ## Tools and Technologies
 
